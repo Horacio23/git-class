@@ -1,9 +1,9 @@
 package main
 
 func main() {
-	mutiply(2, 3)
+	divide(2, 3)
 }
 
-func multiply(r, l int) {
-	return r * l
+func divide(top, bottom int) {
+	return top / bottom
 }

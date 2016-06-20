@@ -1,5 +1,6 @@
 package main
 
+//addign comments test
 func main() {
 	divide(2, 3)
 }
